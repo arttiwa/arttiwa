@@ -29,7 +29,7 @@ Passionate about building things that *connect, sense, and think*.
 
 💬 *"Technology is best when it connects people — and makes life a little bit cooler."*
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
