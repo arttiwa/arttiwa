@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 🫠 👋
 
-<!--
-**arttiwa/arttiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Arttiwa** — an IoT Engineer who loves to mix hardware, software, and a little bit of magic 🪄.  
+Passionate about building things that *connect, sense, and think*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working as **IoT Engineer**  
+- 🌱 Learning **Image Processing**, **Windows Apps with Python & C**, and **Full-stack development** (HTML, React, Vue)  
+- 👯 Open to collaborate with **R&D and technology-driven companies**  
+- 💡 Always exploring new tools, tech, and crazy ideas
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, C#, JavaScript, HTML/CSS  
+**Frameworks/Libraries:** React, Vue, Flask, Node.js  
+**Tools:** Docker, Git, VS Code, Arduino, Raspberry Pi, Microcontroller, Node-red
+**Specialties:** IoT, Image Processing, Embedded Systems  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [github.com/arttiwa](https://github.com/arttiwa)
+- Email: thiwakorn.simagerd@gmail.com
+- LinkedIn: **
+
+
+💬 *"Technology is best when it connects people — and makes life a little bit cooler."*
+
