@@ -16,7 +16,7 @@ Passionate about building things that *connect, sense, and think*.
 ## 🛠 Tech Stack
 **Languages:** Python, C#, JavaScript, HTML/CSS  
 **Frameworks/Libraries:** React, Vue, Flask, Node.js  
-**Tools:** Docker, Git, VS Code, Arduino, Raspberry Pi, Microcontroller, Node-red
+**Tools:** Docker, Git, VS Code, Arduino, Raspberry Pi, Microcontroller, Node-red  
 **Specialties:** IoT, Image Processing, Embedded Systems  
 
 ---
